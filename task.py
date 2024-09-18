@@ -8,4 +8,5 @@ def task(): # Hint - you may need to create new, mid-point sets for the individu
 
 
     return [duplicate_fruits, individual_fruits] # Note - functions can only return one data item - so both tuples
-                                                 # are contained inside a single list
+                                                 # are contained inside a single list.
+print(task())
